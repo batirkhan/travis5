@@ -4,13 +4,13 @@ class Orders {
     
      var	$id;
      var	$product;
-     var    $idprod;
+     var	$idprod;
      var	$price;
-     var    $name;
+     var	$name;
      var	$fname;
      var	$email; 
-	 var	$date;
-	 var	$time;
+     var	$date;
+     var	$time;
 
 	public function tableName()
 	{
